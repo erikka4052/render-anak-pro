@@ -1,1 +1,1 @@
-FROM janesameen/render-anakin-pro:latest
+FROM deeplythink/linuxdo-anakin-proxy:latest
